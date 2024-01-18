@@ -1,2 +1,2 @@
 # Curso-Git-e-Github-Site
- Repositorio para site que fui utilizado no curso de git e github
+ Repositorio para site que foi utilizado no curso de __git e github__
